@@ -9,4 +9,3 @@ A dynamic and visually appealing food delivery web app built using Java, JSP, Se
 🔐 User login & authentication (if implemented)
 📦 WAR file ready for deployment
 📁 MVC architecture using DAO pattern
-
